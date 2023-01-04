@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\8086sim\8086sim\bin\Debug\8086sim.exe.config
+C:\Users\Administrator\source\repos\8086sim\8086sim\bin\Debug\8086sim.exe
+C:\Users\Administrator\source\repos\8086sim\8086sim\bin\Debug\8086sim.pdb
+C:\Users\Administrator\source\repos\8086sim\8086sim\obj\Debug\8086sim.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\8086sim\8086sim\obj\Debug\8086sim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\8086sim\8086sim\obj\Debug\_8086sim.Form1.resources
+C:\Users\Administrator\source\repos\8086sim\8086sim\obj\Debug\_8086sim.Properties.Resources.resources
+C:\Users\Administrator\source\repos\8086sim\8086sim\obj\Debug\8086sim.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\8086sim\8086sim\obj\Debug\8086sim.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\8086sim\8086sim\obj\Debug\8086sim.exe
+C:\Users\Administrator\source\repos\8086sim\8086sim\obj\Debug\8086sim.pdb
